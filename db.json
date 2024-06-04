@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    },
+    {
+      "id": "a7e5",
+      "name": "Mr. Russell Rau"
+    },
+    {
+      "id": "54ea",
+      "name": "Bethany Bechtelar Sr."
+    },
+    {
+      "id": "b890",
+      "name": "Ramona Koss Sr."
+    },
+    {
+      "id": "ef55",
+      "name": "Mr. Peter Keeling III"
+    },
+    {
+      "id": "10f3",
+      "name": "Derek Prohaska DVM"
+    },
+    {
+      "id": "c942",
+      "name": "Maryann Waters"
+    },
+    {
+      "id": "4bc2",
+      "name": "Opal Murray"
+    },
+    {
+      "id": "c033",
+      "name": "Greg White"
+    },
+    {
+      "id": "2b87",
+      "name": "Santiago Watsica"
+    },
+    {
+      "id": "83db",
+      "name": "Jennifer Bogan"
+    },
+    {
+      "id": "3f8a",
+      "name": "Darrell Bechtelar"
+    },
+    {
+      "id": "1b51",
+      "name": "Dora Ritchie"
+    },
+    {
+      "id": "398b",
+      "name": "Stewart Keebler"
+    },
+    {
+      "id": "b109",
+      "name": "Fernando O'Keefe"
+    },
+    {
+      "id": "d657",
+      "name": "Cecelia Kreiger"
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Album 10",
+      "user_id": 1
+    }
+  ],
+  "photos": []
+}
