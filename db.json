@@ -1,34 +1,6 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "John Doe"
-    },
-    {
-      "id": "a7e5",
-      "name": "Mr. Russell Rau"
-    },
-    {
-      "id": "54ea",
-      "name": "Bethany Bechtelar Sr."
-    },
-    {
-      "id": "b890",
-      "name": "Ramona Koss Sr."
-    },
-    {
-      "id": "ef55",
-      "name": "Mr. Peter Keeling III"
-    },
-    {
-      "id": "10f3",
-      "name": "Derek Prohaska DVM"
-    },
-    {
-      "id": "c942",
-      "name": "Maryann Waters"
-    },
-    {
       "id": "4bc2",
       "name": "Opal Murray"
     },
@@ -67,10 +39,66 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Album 10",
-      "user_id": 1
+      "id": "065e",
+      "userId": "4bc2",
+      "title": "Luxurious Metal Mouse"
+    },
+    {
+      "id": "71b1",
+      "userId": "4bc2",
+      "title": "Unbranded Frozen Chips"
+    },
+    {
+      "id": "053e",
+      "userId": "4bc2",
+      "title": "Gorgeous Metal Pants"
+    },
+    {
+      "id": "edad",
+      "userId": "c033",
+      "title": "Handmade Bronze Chips"
+    },
+    {
+      "id": "6da9",
+      "userId": "c033",
+      "title": "Unbranded Rubber Chicken"
+    },
+    {
+      "id": "2979",
+      "userId": "4bc2",
+      "title": "Oriental Wooden Sausages"
+    },
+    {
+      "id": "345e",
+      "userId": "c033",
+      "title": "Bespoke Fresh Shoes"
+    },
+    {
+      "id": "3883",
+      "userId": "4bc2",
+      "title": "Sleek Metal Computer"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "3f4c",
+      "albumId": "71b1",
+      "url": "https://picsum.photos/seed/csoI8/640/480"
+    },
+    {
+      "id": "a9b8",
+      "albumId": "71b1",
+      "url": "https://loremflickr.com/640/480?lock=8777811126910976"
+    },
+    {
+      "id": "7a9a",
+      "albumId": "71b1",
+      "url": "https://picsum.photos/seed/coUJp/640/480"
+    },
+    {
+      "id": "d5a5",
+      "albumId": "065e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2557796249763840"
+    }
+  ]
 }
